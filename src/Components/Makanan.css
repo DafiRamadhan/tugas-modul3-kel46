@@ -1,0 +1,27 @@
+.komponen {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.komponen button {
+    font-size: 20px;
+    background-color: rgb(87, 87, 228);
+    border-radius: 10px;
+    padding: 8px 16px;
+    box-shadow: 0 0 10px 1px rgba(87, 87, 228, 0.7);
+}
+
+.komponen button:hover {
+    background-color: rgb(19, 52, 124);
+    color: #aca9a9;
+}
+
+.nama {
+    font-size: 30pt;
+    color: rgb(0, 0, 0);
+}
+
+.gambar {
+    font-size: 100pt;
+    color: rgb(0, 0, 0);
+}
